@@ -1,9 +1,9 @@
 # Instructions to run the Code
 
 
-First make sure you have npm and yarn installed in you local system.
+First make sure you have npm and yarn installed in your local system.
 
-Then clone the repository with the given link.
+Then clone the repository with the link submitted to you.
 
 Then go to the project folder and open the folder in the code editor of your choice and open the terminal.
 
