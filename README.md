@@ -1,3 +1,22 @@
+# Instructions to run the Code
+
+
+First make sure you have npm and yarn installed in you local system.
+
+Then clone the repository with the given link.
+
+Then go to the project folder and open the folder in the code editor of your choice and open the terminal.
+
+Then in the terminal, run command "npm install" in the root directory of the project.
+
+Then run command "yarn dev"
+
+Then go to the link appear in the terminal and there you go and see the content.
+
+
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
