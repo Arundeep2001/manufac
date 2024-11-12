@@ -13,6 +13,8 @@ Then run command "yarn dev"
 
 Then go to the link appear in the terminal and there you go and see the content.
 
+# Here's the screenshot of the content.
+
 ![image](https://github.com/user-attachments/assets/9ba00355-d221-470e-9eb5-236c5cfbd360)
 
 
