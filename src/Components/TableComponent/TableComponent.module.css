@@ -1,0 +1,22 @@
+.table{
+    border-collapse: collapse;
+    width: 100%;
+    table-layout: fixed;
+}
+
+.heading{
+    border: 1px solid #ccc;
+    padding: 8px;
+    background-color: #f7f7f7;
+    text-align: center;
+    overflow: hidden;  
+}
+
+.data{
+    border: 1px solid #ccc;
+    padding: 8px;
+    background-color: #f7f7f7;
+    text-align: center;
+    text-wrap: wrap;
+    overflow: hidden;  
+}
